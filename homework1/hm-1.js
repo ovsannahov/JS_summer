@@ -1,0 +1,11 @@
+"use strict";
+const name = "Генератор захисного поля";
+console.log(name);
+let price;
+console.log(price);
+price = 1000;
+console.log(price);
+console.log('Обрано «Генератор захисного поля», ціна за штуку 1000 кредитів');
+price = 2000;
+console.log(price);
+console.log('Обрано «Генератор захисного поля», ціна за штуку 2000 кредитів');
